@@ -12,7 +12,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="font-titillium bg-gray-50">{children}</body>
+      <body className="font-titillium bg-gray-200">{children}</body>
     </html>
   );
 }
